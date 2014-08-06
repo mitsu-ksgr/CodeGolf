@@ -1,0 +1,4 @@
+# Ignore object files.
+c/*
+!c/*.c
+
